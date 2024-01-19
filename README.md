@@ -2,9 +2,8 @@
 <samp>
 
 # Data_Science
-Leaning log of Data Science.
 
-Log of Try AtCoder.
+Leaning log of Data Science.
 
 </samp>
 </div>
